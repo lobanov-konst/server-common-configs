@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='scp://connex-user@162.243.58.246//'
+let g:netrw_dirhist_2='/private'
+let g:netrw_dirhist_3='scp://connex-user@104.131.111.31//'
+let g:netrw_dirhist_4='scp://connex-user@104.131.111.31/var/www/'
+let g:netrw_dirhist_5='scp://connex-user@104.131.111.31/home/connex-user/'
+let g:netrw_dirhist_6='scp://rc-feature-backend//home/'
+let g:netrw_dirhist_7='scp://rc-feature-backend//home/connex-user/'
