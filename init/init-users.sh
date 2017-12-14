@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 #deluser rcx-user
 #rm -r /home/rcx-user
